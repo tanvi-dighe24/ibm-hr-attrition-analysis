@@ -1,6 +1,6 @@
 # IBM HR Analytics: Employee Attrition & Performance:
 
-## 📊 Project Overview
+## 📊 Project Overview:
 This project analyzes the IBM HR dataset to understand employee attrition patterns and identify key factors contributing to turnover.
 
 ## 👩‍💻 Author:
@@ -27,9 +27,8 @@ Data Science Intern
 - `IBM_HR_Attrition_Analysis.ipynb`: Full analysis notebook
 - `Report_Tanvi_Dighe.pdf`: Summary PDF report
 
-## 📌 Dataset Source
-IBM HR Employee Attrition (public dataset)
+## 📌 Dataset Source:
+-IBM HR Employee Attrition (public dataset)
 
----
 
-> Project created as part of internship at **Unified Mentor Pvt. Ltd.** and for personal data science portfolio.
+
